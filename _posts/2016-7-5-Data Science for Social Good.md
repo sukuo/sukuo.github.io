@@ -23,6 +23,11 @@ This thought occured to me while listening to this piece from WNYC in the mornin
 [New York attempt to fight street homelessness](http://www.wnyc.org/story/new-york-attempts-fight-street-homelessness/)
 
 
+Homeless Epidemic in NYC: 
+![alt text](https://static01.nyt.com/images/2015/10/21/nyregion/new-york-homeless-people-1445376173873/new-york-homeless-people-1445376173873-facebookJumbo.jpg "Logo Title Text 1")
+
+
+
 The problem is very apparent to anyone walking down the streets of Manhattan.  It is difficult to see people living in such conditions and it's clear these people need help whether they want it or not.
 
 
