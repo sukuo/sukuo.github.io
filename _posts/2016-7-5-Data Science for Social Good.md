@@ -32,7 +32,7 @@ The problem is very apparent to anyone walking down the streets of Manhattan.  I
 
 
 Home Stat seems like an poorly thought out program. The data as well as the methods they are using to collect it
-don't strike meas useful or effective.  However the fact that there are workers out there collecting data to address
+don't strike me as useful or effective.  However the fact that there are workers out there collecting data to address
 this issue is encouraging.  If there were data scientsts who could offer their expertise to help guide the data 
 collection process and drive the analysis, there could definitely be positive outcomes resulting from this program.
 
