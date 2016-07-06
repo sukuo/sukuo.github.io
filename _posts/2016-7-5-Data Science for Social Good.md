@@ -1,8 +1,7 @@
-#First week at Metis in the books!
-
-
-#####By Sunne Kuo
-
+---
+layout: post
+title: First Week at Metis in the books!
+---
 So a little background on me - I recently quit my job without knowing that I'd be accepted into this highly competitive
 data science boot camp so it's no surprise that the acceptance letter was a welcome sight.  In my former life,
 I worked in the actuarial department of a large health insurer and while it was a good start to building a career,
